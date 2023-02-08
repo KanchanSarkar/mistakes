@@ -1,0 +1,8 @@
+
+hi 
+helow
+bellow git 
+push oring main
+got push -u origin
+git add .
+git commit -m "hi there"
